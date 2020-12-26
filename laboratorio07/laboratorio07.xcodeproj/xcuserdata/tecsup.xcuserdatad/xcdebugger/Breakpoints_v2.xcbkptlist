@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C098B7C-4531-452C-8038-DD245D335B94"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "laboratorio07/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - fc66170f2ab916f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.nro1.getter : Swift.Double"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - e8d7d5e833d206f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.nro1.setter : Swift.Double"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - 85d68a98cc8ae21c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.nro1.modify : Swift.Double"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - 189e018eecdff6f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.nro1.modify : Swift.Double with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - fe868ba40d306f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; laboratorio07.SecondViewController"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "738">
+               </Location>
+               <Location
+                  uuid = "7D26D1A1-D1EA-4459-8882-A07FB66A6510 - f9e7330781488151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laboratorio07.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;laboratorio07.SecondViewController&gt;"
+                  moduleName = "laboratorio07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecsup/Documents/diana/laboratorio07/laboratorio07/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "679">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
